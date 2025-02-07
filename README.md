@@ -1,8 +1,8 @@
 # How-to-make-TOP5-videos
 
-## **English** | [简体中文](/README-zh_cn.md)
+## **English** | 
 
-###### Translate by ChatGPT.
+.
 
 ello guys. Today we have a tutorial of how to make TOP5 videos.
 
