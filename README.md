@@ -1,13 +1,5 @@
 # How-to-make-TOP5-videos
 
-## **English** | 
-
-.
-
-ello guys. Today we have a tutorial of how to make TOP5 videos.
-
-Welcome back to those who have completed their learning journey. We invite you to contribute to this repository by sharing your video drafts. Simply save them in the `video_draft` folder, using the video's url as the filename. To participate, fork this repository on GitHub, upload your video drafts, and submit a pull request. Rest assured, if it aligns with our guidelines, we shall gladly approve it. For a glimpse of video draft samples, refer to the `video_draft` folder or the tutorial below.
-
 # Preface
 
 Top 5 videos have emerged as a popular internet meme. Characterized by a Spanish-accented English voiceover, blue video background, and featuring five videos each time, these videos have gained significant attention and viewership on various platforms. This style was initially defined by YouTube user [squewe](https://www.youtube.com/@squewe). Leveraging the simplicity and humor, [squewe](https://www.youtube.com/@squewe) has uploaded 224 videos and amassed 1.06 million subscribers on YouTube. [As of July 22, 2023]. Similar creators have also appeared on Bilibili, such as [squwe@bilibili](https://space.bilibili.com/1211770205) and [坦然奥特@bilibili](https://space.bilibili.com/2014827662).
