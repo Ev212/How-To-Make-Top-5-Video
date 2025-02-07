@@ -60,12 +60,12 @@ Top 5 videos have emerged as a popular internet meme. Characterized by a Spanish
 
 6. Editing:
    - Open video editing software such as **Adobe Premiere Pro**, **Final Cut Pro**, etc.
-   - Import the TOP5 video files.
+   - Import the TOP5 video files. (some softwares may not support .wav, in which case you can use CloudConvert or use this extension: https://chromewebstore.google.com/detail/wav-to-mp3/dolkcjjogomocgkbmghoogemfnkafmml
    - Import the text-to-speech audio files.
-   - Create a background with the color `rgb(0, 255, 255)` or `#00ffff`.
+   - Create a background with the color `rgb(0, 255, 255)` or `#00ffff`. (cyan)
    - Add text with the color `rgb(255, 255, 255)` or `#ffffff`, using the Windows system font `MS Reference Sans Serif`.
    - Combine the video clips and the audio by repeating the process.
-   - At the end, you can add your signature or leave it blank.
+
 
    Throughout the editing process:
    - Keep each video's length moderate.
@@ -73,7 +73,3 @@ Top 5 videos have emerged as a popular internet meme. Characterized by a Spanish
    - The honorable mention should have minimal thematic relation to the main content.
 
 7. Publishing: Upload the video to Internet platform.
-
-# Is This Done Using ChatGPT?
-
-No, it's not. But the style of this article is strikingly similar...
